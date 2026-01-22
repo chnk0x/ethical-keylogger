@@ -33,15 +33,15 @@ This project is strictly for educational and defensive cybersecurity research pu
 ```bash
 git clone https://github.com/chnk0x/ethical-keyboard-monitor.git
 cd ethical-keyboard-monitor
-
+```
 ### Step 2: Install Required Libraries
 ```bash
 python -m pip install -r requirements.txt
-
+```
 ### Step 3: Run the Monitor
 ```bash
 python main.py
-
+```
 ### Step 4: Decrypt Saved Logs (Optional)
 ```bash
 python decrypt_log.py
