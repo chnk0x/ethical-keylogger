@@ -32,7 +32,7 @@ This project is strictly for educational and defensive cybersecurity research pu
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/chnk0x/ethical-keyboard-monitor.git
-cd ethical-keyboard-monitor
+cd ethical-keylogger
 ```
 ### Step 2: Install Required Libraries
 ```bash
